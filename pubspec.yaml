@@ -22,3 +22,12 @@ flutter:
 
 
   uses-material-design: true
+  assets:
+    - src/img/
+  fonts:
+    - family: 'Comfortaa'
+      fonts:
+        - asset: src/fonts/Comfortaa-VariableFont_wght.ttf
+    - family: 'Raleway'
+      fonts:
+        - asset: src/fonts/Raleway-VariableFont_wght.ttf
